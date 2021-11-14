@@ -1,0 +1,374 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: n_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1034px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: n_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#n__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1036px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text {
+	display: none;
+	left: 1415px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Text_i {
+	display: none;
+	left: 1482px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Text_j {
+	display: none;
+	left: 1549px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#n_1 {
+	fill: rgba(255,255,255,1);
+}
+.n_1 {
+	filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.161));
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 1021px;
+	height: 692px;
+	left: 779px;
+	top: 187px;
+}
+#n_1_l {
+	position: absolute;
+	width: 919px;
+	height: 406px;
+	left: 810px;
+	top: 314px;
+	display: none;
+	overflow: visible;
+}
+#Ae {
+	position: absolute;
+	width: 108px;
+	height: 108px;
+	left: 465px;
+	top: 5px;
+	overflow: visible;
+}
+#ai {
+	position: absolute;
+	width: 108px;
+	height: 108px;
+	left: 5px;
+	top: 149px;
+	overflow: visible;
+}
+#Id {
+	position: absolute;
+	width: 108px;
+	height: 108px;
+	left: 5px;
+	top: 293px;
+	overflow: visible;
+}
+#Pr {
+	position: absolute;
+	width: 108px;
+	height: 108px;
+	left: 465px;
+	top: 149px;
+	overflow: visible;
+}
+#PS {
+	position: absolute;
+	width: 113px;
+	height: 113px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#xd {
+	position: absolute;
+	width: 113px;
+	height: 113px;
+	left: 465px;
+	top: 293px;
+	overflow: visible;
+}
+#Adobe_Xd {
+	left: 624px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Adobe_Premiere_Pro {
+	left: 624px;
+	top: 185px;
+	position: absolute;
+	overflow: visible;
+	width: 296px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Adobe_After_Effects {
+	left: 624px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Adobe_Photoshop {
+	left: 153px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Adobe_Illustrator {
+	left: 153px;
+	top: 181px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Adobe_InDesign {
+	left: 153px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_2 {
+	position: absolute;
+	width: 124px;
+	height: 28px;
+	left: 810px;
+	top: 210px;
+	display: none;
+	overflow: visible;
+}
+#n_1_z {
+	fill: rgba(255,125,125,1);
+}
+.n_1_z {
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 28px;
+	left: 0px;
+	top: 0px;
+}
+#n_2_ {
+	fill: rgba(255,194,125,1);
+}
+.n_2_ {
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 28px;
+	left: 48px;
+	top: 0px;
+}
+#n_3 {
+	fill: rgba(255,246,125,1);
+}
+.n_3 {
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 28px;
+	left: 96px;
+	top: 0px;
+}
+#n_3213213 {
+	display: none;
+	position: absolute;
+	width: 66px;
+	height: 66px;
+	left: 150px;
+	top: 19px;
+	overflow: visible;
+}
+#Text_ {
+	display: none;
+	left: 216px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#n_3_ {
+	opacity: 0.5;
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.n_3_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1034px;
+	left: 0px;
+	top: 0px;
+}
+#n_2_ba {
+	fill: rgba(255,255,255,1);
+}
+.n_2_ba {
+	filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 692px;
+	left: 587px;
+	top: 187px;
+}
+#n___________________ {
+	left: 643px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 435px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#n_3213213_ {
+	position: absolute;
+	width: 136px;
+	height: 135px;
+	left: 750px;
+	top: 30px;
+	overflow: visible;
+}
+#Text_ba {
+	left: 886px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK KR;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Copyright_ {
+	left: 827px;
+	top: 932px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: S-Core Dream 5;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
